@@ -1,3 +1,7 @@
+/**
+	author: Sean Dutton @seantdutton
+**/
+
 var express = require('express');
 var app = express();
 var logger = require('./logger');
